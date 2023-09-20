@@ -1,4 +1,5 @@
 # Nga's Portfolio
+<br>
 
 # [Project 1: AdventureWorks Customer Segmentation Analysis](https://github.com/nqnga-0502/AventureWorks-CustomerSegmentation)
 - The target of this project is to indentify the Customer segmentation and profiling and extract valuable information from raw data available in the databases

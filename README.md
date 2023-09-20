@@ -6,6 +6,7 @@
 - Data processing and visualization with Power PI
   ## Result Overview
   ![](pj2.png) 
+<br>
 
 # [Project 2: SuperStore RFM Analysis](https://github.com/nqnga-0502/Superstore-RFM-Analysis)
 - The main purpose of the project find out the customer's transaction attidutes with their purchase database result by applying RFM analysis. Based on the customer clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.
@@ -14,7 +15,7 @@
   ## Result Overview
   <img src="pj4.png" width="450" height="350">
   <img src="pj3.png" width="400" height="350">
-  
+  <br>
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)
 - The purpose of this project is to build a fraud detection system using machine learning models

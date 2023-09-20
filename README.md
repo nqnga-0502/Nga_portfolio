@@ -11,8 +11,7 @@
 - Data was taken from the fictional dataset which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore.
 - Data processing and visualization with Python
   ## Result Overview
-    ![](pj3.png)
-  <img src="pj3.png" width="200" height="100">
+  <img src="pj3.png" width="400" height="300">
     ![](pj4.png) 
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)

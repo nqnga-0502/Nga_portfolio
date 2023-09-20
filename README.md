@@ -19,5 +19,5 @@
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)
 - The purpose of this project is to build a fraud detection system using machine learning models
 - Data was taken from the public [data source](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset?select=fraudTrain.csv)
-
-theme:Cayman
+<br>
+theme: Cayman

@@ -15,8 +15,8 @@ Data Analytics Portfolio
 - Data processing and visualization with Python
   ## Result Overview
   <img align="center" src="pj4.png" width="500" height="350">
-  <br>
-  <img align="center" src="pj3.png" width="500" height="400">
+<br>
+  <img align="center" src="pj3.png" width="500" height="450">
   
 <br>
 

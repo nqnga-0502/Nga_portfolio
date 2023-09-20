@@ -1,4 +1,4 @@
-<center>Nga's Portfolio</center>
+# Nga's Portfolio
 
 # [Project 1: AdventureWorks Customer Segmentation Analysis](https://github.com/nqnga-0502/AventureWorks-CustomerSegmentation)
 - The target of this project is to indentify the Customer segmentation and profiling and extract valuable information from raw data available in the databases
@@ -12,8 +12,9 @@
 - Data was taken from the fictional dataset which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore.
 - Data processing and visualization with Python
   ## Result Overview
+  <img src="pj4.png" width="400" height="400">
   <img src="pj3.png" width="400" height="300">
-    ![](pj4.png) 
+  
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)
 - The purpose of this project is to build a fraud detection system using machine learning models

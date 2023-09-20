@@ -4,7 +4,7 @@
 - Data was taken from the [AdventureWorks2019](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) public dataset
 - Data processing and visualization with Power PI
   ## Result Overview
-  ![](pj2.png)
+  ![](pj2.png) 
 
 # [Project 2: SuperStore RFM Analysis](https://github.com/nqnga-0502/Superstore-RFM-Analysis)
 - The main purpose of the project find out the customer's transaction attidutes with their purchase database result by applying RFM analysis. Based on the customer clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.

@@ -13,7 +13,7 @@
 - Data processing and visualization with Python
   ## Result Overview
   <img src="pj4.png" width="400" height="300">
-  <img src="pj3.png" width="400" height="300">
+  <img src="pj3.png" width="350" height="300">
   
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)

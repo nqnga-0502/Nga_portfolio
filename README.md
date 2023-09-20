@@ -14,9 +14,9 @@ Data Analytics Portfolio
 - Data was taken from the fictional dataset which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore.
 - Data processing and visualization with Python
   ## Result Overview
-  <img src="pj4.png" width="600" height="450">
+  <img align="center" src="pj4.png" width="600" height="450">
   <br>
-  <img src="pj3.png" width="600" height="450">
+  <img align="center" src="pj3.png" width="600" height="450">
   
 <br>
 

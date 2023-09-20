@@ -12,6 +12,7 @@
 - Data processing and visualization with Python
   ## Result Overview
     ![](pj3.png)
+  <img src="pj3.png" width="200" height="100">
     ![](pj4.png) 
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)

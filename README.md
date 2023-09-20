@@ -15,7 +15,7 @@
   ## Result Overview
   <img src="pj4.png" width="450" height="350">
   <img src="pj3.png" width="400" height="350">
-  <br>
+<br>
 
 # [Project 3: Fraud transactions detection](https://github.com/nqnga-0502/Fraud-transactions-detection)
 - The purpose of this project is to build a fraud detection system using machine learning models
